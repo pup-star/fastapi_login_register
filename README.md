@@ -1,5 +1,9 @@
 first: create venv file
-  -- virtualenv venv
+
+ virtualenv venv
+ 
 second: avctivate venv file
-  -- source venv/bin/activate
+
+
+source venv/bin/activate
 
